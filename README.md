@@ -1,8 +1,8 @@
 # 👋 Olá!
 
-- Meu nome é Maurício, Sou do rio de janeiro, RJ, tenho 27 anos. Atualmente, estou no primeiro período da graduação em Análise e Desenvolvimento de Sistemas na Descomplica Faculdade Digital, onde estou me preparando para mergulhar de cabeça no mundo da tecnologia, sou o primeiro dos meus irmãos a realizar uma graduação que era algo imensurável, porém se tornou algo real. Minha grande vontade e trabalhar na área e atuar na parte de Front-end, ou o que me for idealizado no futuro.
+- Meu nome é Maurício, Sou do rio de janeiro, RJ, tenho 27 anos. Atualmente, estou no segundo período da graduação em Análise e Desenvolvimento de Sistemas na Descomplica Faculdade Digital, onde estou me preparando para mergulhar de cabeça no mundo da tecnologia, sou o primeiro dos meus irmãos a realizar uma graduação que era algo imensurável, porém se tornou algo real. Minha grande vontade e trabalhar na área e atuar na parte de Front-end, ou o que me for idealizado no futuro.
 
-- Hoje, trabalho em uma área completamente diferente que é Operador de telemarketing ativo/receptivo, com atuação em venda de graduação para a Estácio de Sá. Meu caminho e longo até de fato mudar de vida e atuar com o que de fato quero, por isso não só faço faculdade, mas complemento com cursos, bootcamps, video no YouTube, livros
+- Hoje, trabalho em uma área completamente diferente que é Inspetor de Alunos para a Estácio de Sá. Meu caminho e longo até de fato mudar de vida e atuar com o que de fato quero, por isso não só faço faculdade, mas complemento com cursos, bootcamps, video no YouTube, livros
 
 
 
